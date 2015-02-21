@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CharactorController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CharactorGeneratorController.cs" Line="23" Column="3" />
+      <File FileName="Assets\Scripts\CharactorController.cs" Line="16" Column="3" />
+      <File FileName="Assets\Scripts\FallTriggerController.cs" Line="20" Column="4" />
+      <File FileName="Assets\Scripts\Flick.cs" Line="129" Column="24" />
+      <File FileName="Assets\Scripts\ObjectDestroyerController.cs" Line="5" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
